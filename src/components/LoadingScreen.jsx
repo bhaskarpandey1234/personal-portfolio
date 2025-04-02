@@ -3,7 +3,7 @@ import { useState,useEffect } from "react";
 export const LoadingScreen= ({onComplete})=>{
     const [text,setText]=useState("");
     // const fullText="<Hello World/>";
-    const fullText="<Hello Marknox Media/>";
+    const fullText="<Hello, Get ready to explore my journey!/>";
 
 
     useEffect(()=>{

@@ -8,6 +8,7 @@ import {Home} from './components/sections/Home';
 import {About} from './components/sections/About';
 import {Projects} from './components/sections/Projects';
 import { Contact } from './components/sections/Contact';
+import DeveloperInfo from './components/DeveloperInfo';
 
 function App() {
 
@@ -27,6 +28,12 @@ function App() {
         <About/>
         <Projects/>
         <Contact/>
+        <DeveloperInfo/>
+        <footer className="bg-gray-900 text-white py-8">
+  <div className="max-w-4xl mx-auto text-center">
+    <p className="text-sm text-gray-400 mt-6">© 2025 <b>Portfolio</b> – All Rights Reserved</p>
+  </div>
+</footer>
       </div>
     </>
   )
