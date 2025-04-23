@@ -278,7 +278,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="https://github.com/bhaskarpandey1234/AcademiaManager/tree/main/AcademiaManager"
+                  href="https://github.com/bhaskarpandey1234/AcademiaManager"
                   target="_blank"
                   className="my-4 rounded-2xl p-2 bg-blue-500 text-white hover:text-blue-300 transition-colors"
                 >
